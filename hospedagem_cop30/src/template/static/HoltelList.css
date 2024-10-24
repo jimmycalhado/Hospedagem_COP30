@@ -1,0 +1,20 @@
+.hotel-list{
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+.hotel-img{
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    z-index: 1;
+}
+.conteudo-hotel{
+    background-color: aqua;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    top: -224px;
+    border-radius: 10px;
+    z-index: -1;
+}
